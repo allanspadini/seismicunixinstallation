@@ -48,7 +48,8 @@ make xminstall
 
 #make sfinstall #precisa usar uma versão mais antiga do gcc. Esperando o CWP arrumar :P
 
-
+cd ..
+rm -r src
 #Uma possível solução pode estar neste link: https://mailman.mines.edu/pipermail/seisunix/2016-December/000058.html
 
 
